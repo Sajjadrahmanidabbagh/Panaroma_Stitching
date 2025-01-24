@@ -4,7 +4,7 @@ Merge multiple overlapping images into a single seamless panorama.
 **This code is part of a course assignment (Image Processing for Engineers), which I lectured in 2022.**
 
 **Code Description:**
-This Python script automates the process of creating a panorama from two overlapping images. The program leverages OpenCV and NumPy to detect features in the input images, match those features, calculate the homography matrix for image alignment, and then stitch the images into a seamless panorama. The resulting panorama is saved and displayed to the user.
+This Python script automates the process of creating a panorama from two overlapping images. The program leverages OpenCV and NumPy to detect features in the input images, match those features, calculate the homography matrix for image alignment, and then stitch the images into a seamless panorama. The resulting panorama is saved and displayed to the user. 
 
 **Most Important Libraries/Functions Used:**
 OpenCV:
